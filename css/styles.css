@@ -1,0 +1,62 @@
+body{
+  /*max-width: 1200px;*/
+  min-width: 400px;
+  background-color: mintcream;
+  /*margin-right: -10px;*/
+
+}
+.banner{
+  background-image: url(http://www.dazeddad.com/wp-content/uploads/2010/12/Landscape-Road.jpg);
+  background-size: cover;
+  text-align: center;
+
+}
+.banner h1{
+  font-size: 5.9vw;
+  color: grey;
+  background-color: white;
+  border-radius: 50px;
+}
+.banner img{
+  height: 300px;
+  width: 300px;
+
+}
+
+
+.first-paragraph{
+  text-align: center;
+  font-size: 40px;
+  font-size: 3.0vw;
+
+}
+
+.contact{
+  text-align: center;
+  font-size: 40px;
+  font-size: 3.0vw;
+}
+.contact a{
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  font-size: 3.0vw;
+}
+.contact h2{
+  font-size: 3.0vw;
+}
+.pictures div{
+  padding: 0;
+
+
+}
+footer h3{
+  font-size: 25px;
+  color: orangered;
+}
+
+footer{
+  text-align: center;
+  background-image: url(http://www.slayerment.com/files/slayerment/images/free-road-wallpaper[1].jpg);
+  background-size: cover;
+}
